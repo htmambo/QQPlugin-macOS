@@ -1,7 +1,7 @@
 
 ## QQPlugin-MacOS
 
-![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)    [![GitHub license](https://img.shields.io/github/license/TKkk-iOSer/QQPlugin-MacOS.svg)](https://github.com/TKkk-iOSer/QQPlugin-MacOS/blob/master/LICENSE)
+![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)    [![GitHub license](https://img.shields.io/github/license/htmambo/QQPlugin-MacOS.svg)](https://github.com/htmambo/QQPlugin-MacOS/blob/master/LICENSE)
 
 QQ 小助手 
 
@@ -23,7 +23,7 @@ QQ 小助手
 
 打开`应用程序-实用工具-Terminal(终端)`，执行以下命令并根据提示输入密码即可。**(需要git支持)**
 
-`cd ~/Downloads && rm -rf QQPlugin-MacOS && git clone https://github.com/TKkk-iOSer/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
+`rm -rf QQPlugin-MacOS && git clone https://github.com/htmambo/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
 
 **1. 普通安装**
 
